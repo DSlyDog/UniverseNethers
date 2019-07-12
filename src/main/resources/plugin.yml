@@ -1,0 +1,8 @@
+name: UniverseNethers
+version: ${project.version}
+main: net.whispwriting.universenethers.UniverseNethers
+api-version: "1.13"
+prefix: U-Nethers
+authors: [WhispTheFox]
+description: A plugin that makes nethers for each world created with Universes
+website: https://whispwriting.net
